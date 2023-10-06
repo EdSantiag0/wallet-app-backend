@@ -11,6 +11,11 @@ Esta é uma API criada usando Node.js, Express e PostgresSQL. O objetivo princip
 - Node.js
 - Docker
 
+# Documentation:
+
+Use insominia to import the file bellow:
+https://github.com/EdSantiag0/wallet-app-backend/blob/main/insomnia.json
+
 ## Steps to run the project
 
 1. Clone the project
@@ -64,8 +69,3 @@ npm run start:dev
 ```
 npm run start
 ```
-
-# Documentation:
-
-Use insominia to import the file bellow:
-https://github.com/EdSantiag0/wallet-app-backend/blob/main/insomnia.json
